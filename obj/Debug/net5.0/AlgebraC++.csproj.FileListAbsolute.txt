@@ -1,0 +1,15 @@
+/Users/maxsusman/Projects/AlgebraC++/bin/Debug/net5.0/AlgebraC++.deps.json
+/Users/maxsusman/Projects/AlgebraC++/bin/Debug/net5.0/AlgebraC++.runtimeconfig.json
+/Users/maxsusman/Projects/AlgebraC++/bin/Debug/net5.0/AlgebraC++.runtimeconfig.dev.json
+/Users/maxsusman/Projects/AlgebraC++/bin/Debug/net5.0/AlgebraC++.dll
+/Users/maxsusman/Projects/AlgebraC++/bin/Debug/net5.0/ref/AlgebraC++.dll
+/Users/maxsusman/Projects/AlgebraC++/bin/Debug/net5.0/AlgebraC++.pdb
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.csprojAssemblyReference.cache
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.AssemblyInfoInputs.cache
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.AssemblyInfo.cs
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.csproj.CoreCompileInputs.cache
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.dll
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/ref/AlgebraC++.dll
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.pdb
+/Users/maxsusman/Projects/AlgebraC++/obj/Debug/net5.0/AlgebraC++.genruntimeconfig.cache
