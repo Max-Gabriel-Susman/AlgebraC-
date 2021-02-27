@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace AlgebraC__
 {
     class Program
@@ -10,14 +11,9 @@ namespace AlgebraC__
         {
             Console.WriteLine("Math time baby!");
 
-            double DistanceBetweenTwoPoints(double x1, double y1, double x2, double y2)
-            {
-                double distance = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
+            Console.WriteLine(EquationOfCircle.GetRadiusOfCircle(2,3,4,5));
 
-                return distance;
-            }
-
-            Console.WriteLine(DistanceBetweenTwoPoints(2,3,4,5));
+            Console.WriteLine(DistanceBetweenTwoPoints.GetDistanceBetweenTwoPoints(2,3,4,5));
         }
     }
 }
