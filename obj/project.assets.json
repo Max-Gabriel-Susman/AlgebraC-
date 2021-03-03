@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/maxsusman/.nuget/packages/": {}
+    "C:\\Users\\susma\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maxsusman/Projects/AlgebraC++/AlgebraC++.csproj",
+      "projectUniqueName": "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\AlgebraC++.csproj",
       "projectName": "AlgebraC++",
-      "projectPath": "/Users/maxsusman/Projects/AlgebraC++/AlgebraC++.csproj",
-      "packagesPath": "/Users/maxsusman/.nuget/packages/",
-      "outputPath": "/Users/maxsusman/Projects/AlgebraC++/obj/",
+      "projectPath": "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\AlgebraC++.csproj",
+      "packagesPath": "C:\\Users\\susma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/maxsusman/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\susma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
