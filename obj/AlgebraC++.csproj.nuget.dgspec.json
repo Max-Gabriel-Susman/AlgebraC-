@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\AlgebraC++.csproj": {}
+    "/Users/maxsusman/Projects/AlgebraC++/AlgebraC++.csproj": {}
   },
   "projects": {
-    "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\AlgebraC++.csproj": {
+    "/Users/maxsusman/Projects/AlgebraC++/AlgebraC++.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\AlgebraC++.csproj",
+        "projectUniqueName": "/Users/maxsusman/Projects/AlgebraC++/AlgebraC++.csproj",
         "projectName": "AlgebraC++",
-        "projectPath": "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\AlgebraC++.csproj",
-        "packagesPath": "C:\\Users\\susma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\susma\\source\\repos\\Algebra\\AlgebraC-\\obj\\",
+        "projectPath": "/Users/maxsusman/Projects/AlgebraC++/AlgebraC++.csproj",
+        "packagesPath": "/Users/maxsusman/.nuget/packages/",
+        "outputPath": "/Users/maxsusman/Projects/AlgebraC++/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\susma\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/maxsusman/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

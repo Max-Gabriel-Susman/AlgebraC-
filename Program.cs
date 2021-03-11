@@ -18,6 +18,8 @@ namespace AlgebraC__
             Console.WriteLine(QuadraticFormula.Formula(1,-6,5,true));
 
             Console.WriteLine(QuadraticFormula.Formula(1,-6,5,false));
+
+            Console.WriteLine(AbsoluteValue.AbsoluteValueOfRealNumber(-7));
         }
     }
 }
